@@ -103,7 +103,7 @@ header .container .links ul::before{
 
 /* Start landing */
 .land {
-    background-image: url(/images/landing.jpg);
+    background-image: url(images/landing.jpg);
     background-size: cover;
     height: calc(100vh - 50px);
     width: 100%;
